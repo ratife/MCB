@@ -1,0 +1,5 @@
+This project has two 3 services :
+
+- customer_service : back service
+- file_service : back service (to do with nestJS) 
+- front :  (to do angular)
